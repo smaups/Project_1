@@ -260,7 +260,7 @@
 258,Park (Arden Heights Woods),50.89135319,10312,False,Large Park Zone,R,259
 259,Prospect Park,9.1231513,11215,False,Flagship Park Zone,B,260
 260,East River Esplanade,3.70350034,10035,False,Large Park Zone,M,261
-261,East River Waterfront Esplanade,3.24450208,"10004,10038",False,Large Park Zone,M,262
+261,East River Waterfront Esplanade,3.24450208,10004,False,Large Park Zone,M,262
 262,Marine Park,29.580842999999998,11229,False,Large Park Zone,B,263
 263,Forest Park,7.32720184,11385,False,Flagship Park Zone,Q,264
 264,St Nicholas Park,8.34828471,10027,False,Large Park Zone,M,265
@@ -339,7 +339,7 @@
 337,Shore Park And Parkway,13.32358176,11209,False,Large Park Zone,B,338
 338,Canarsie Park,15.66014245,11236,False,Large Park Zone,B,339
 339,Rockaway Beach & Boardwalk,26.17396787,11691,False,Beach Zone,Q,340
-340,The High Line,3.73204774,"10011,10014",False,Large Park Zone,M,341
+340,The High Line,3.73204774,10011,False,Large Park Zone,M,341
 341,Broadway Malls,1.08693325,10031,False,Large Park Zone,M,342
 342,Cunningham Park,44.22840239,11423,False,Large Park Zone,Q,343
 343,Rockaway Beach & Boardwalk,21.55335063,11691,False,Beach Zone,Q,344
@@ -473,7 +473,7 @@
 471,Van Cortlandt Park,41.65193445,10471,False,Flagship Park Zone,X,472
 472,Coney Island Beach & Boardwalk,14.05210347,11224,False,Beach Zone,B,473
 473,Central Park,10.74135391,10025,False,Flagship Park Zone,M,474
-474,Geo Soilan Pk-Battery Pk City,14.03217045,"10007,10280",False,Large Park Zone,M,475
+474,Geo Soilan Pk-Battery Pk City,14.03217045,10007,False,Large Park Zone,M,475
 475,Broadway Malls,1.32482096,10032,False,Large Park Zone,M,476
 476,Prospect Park,17.905762300000003,11215,False,Flagship Park Zone,B,477
 477,Canarsie Park,39.70410877,11236,False,Large Park Zone,B,478
@@ -486,7 +486,7 @@
 484,Coney Island Beach & Boardwalk,9.604621400000001,11224,False,Beach Zone,B,485
 485,Marine Park,22.79318185,11229,False,Large Park Zone,B,486
 486,Prospect Park,24.4315292,11215,False,Flagship Park Zone,B,487
-487,East River Waterfront Esplanade,5.55218208,"10002,10038",False,Large Park Zone,M,488
+487,East River Waterfront Esplanade,5.55218208,10002,False,Large Park Zone,M,488
 488,Central Park,17.75049814,10023,True,Flagship Park Zone,M,489
 489,Crotona Park,17.34654221,10457,False,Large Park Zone,X,490
 490,Starlight Park,7.3433136,10459,False,Large Park Zone,X,491
@@ -609,29 +609,33 @@
 209,Central Park,1.38483504,10023,False,Sitting Area/Triangle/Mall,M,608
 243,Bronx & Pelham Pkwy(2.5 Miles),24.58774935,10469,False,Large Park Zone,X,609
 260,East River Esplanade,3.70350034,10029,False,Large Park Zone,M,610
-275,Ocean Parkway (5.5 Miles),4.60413292,11235,False,Large Park Zone,B,611
-286,Pelham Bay Park,97.57433551,10475,True,Flagship Park Zone,X,612
-293,Bronx Park,21.56092578,10467,False,Large Park Zone,X,613
-297,S.I. Greenbelt,51.74673785,10314,False,Large Park Zone,R,614
-308,Central Park,11.00554979,10025,False,Flagship Park Zone,M,615
-324,Eastern Parkway,3.23525154,11225,False,Large Park Zone,B,616
-328,East River Esplanade,3.40325314,10065,False,Large Park Zone,M,617
-363,Rockaway Beach & Boardwalk,11.73480907,11694,False,Beach Zone,Q,618
-384,Mosholu Parkway (2.Miles),13.35188831,10467,False,Large Park Zone,X,619
-387,Ocean Parkway (5.5 Miles),3.5528425,11235,False,Large Park Zone,B,620
-390,Ocean Parkway (5.5 Miles),2.55306873,11235,False,Large Park Zone,B,621
-400,Forest Park,39.80116542,11421,False,Flagship Park Zone,Q,622
-407,Broadway Malls,1.11137525,10025,False,Large Park Zone,M,623
-416,Bronx Park,11.04151606,10470,False,Large Park Zone,X,624
-417,Rockaway Beach & Boardwalk,20.31686315,11693,False,Beach Zone,Q,625
-426,Rockaway Beach & Boardwalk,19.11756264,11692,False,Beach Zone,Q,626
-431,Eastern Parkway,3.55903399,11233,False,Large Park Zone,B,627
-456,Kissena Corridor Park,21.94529495,11366,False,Large Park Zone,Q,628
-457,East River Esplanade,3.00451221,10128,False,Large Park Zone,M,629
-490,Starlight Park,7.3433136,10472,False,Large Park Zone,X,630
-512,Forest Park,18.96047005,11415,False,Flagship Park Zone,Q,631
-516,Prospect Park,9.76801583,11238,False,Flagship Park Zone,B,632
-533,Van Cortlandt Park,97.09379891,10705,False,Flagship Park Zone,X,633
-541,S.I. Greenbelt,52.3520887,10304,False,Large Park Zone,R,634
-542,FDR Boardwalk & Beach,47.08549794,10306,False,Beach Zone,R,635
-554,Highbridge Park,8.68667365,10033,False,Large Park Zone,M,636
+261,East River Waterfront Esplanade,3.24450208,10038,False,Large Park Zone,M,611
+275,Ocean Parkway (5.5 Miles),4.60413292,11235,False,Large Park Zone,B,612
+286,Pelham Bay Park,97.57433551,10475,True,Flagship Park Zone,X,613
+293,Bronx Park,21.56092578,10467,False,Large Park Zone,X,614
+297,S.I. Greenbelt,51.74673785,10314,False,Large Park Zone,R,615
+308,Central Park,11.00554979,10025,False,Flagship Park Zone,M,616
+324,Eastern Parkway,3.23525154,11225,False,Large Park Zone,B,617
+328,East River Esplanade,3.40325314,10065,False,Large Park Zone,M,618
+340,The High Line,3.73204774,10014,False,Large Park Zone,M,619
+363,Rockaway Beach & Boardwalk,11.73480907,11694,False,Beach Zone,Q,620
+384,Mosholu Parkway (2.Miles),13.35188831,10467,False,Large Park Zone,X,621
+387,Ocean Parkway (5.5 Miles),3.5528425,11235,False,Large Park Zone,B,622
+390,Ocean Parkway (5.5 Miles),2.55306873,11235,False,Large Park Zone,B,623
+400,Forest Park,39.80116542,11421,False,Flagship Park Zone,Q,624
+407,Broadway Malls,1.11137525,10025,False,Large Park Zone,M,625
+416,Bronx Park,11.04151606,10470,False,Large Park Zone,X,626
+417,Rockaway Beach & Boardwalk,20.31686315,11693,False,Beach Zone,Q,627
+426,Rockaway Beach & Boardwalk,19.11756264,11692,False,Beach Zone,Q,628
+431,Eastern Parkway,3.55903399,11233,False,Large Park Zone,B,629
+456,Kissena Corridor Park,21.94529495,11366,False,Large Park Zone,Q,630
+457,East River Esplanade,3.00451221,10128,False,Large Park Zone,M,631
+474,Geo Soilan Pk-Battery Pk City,14.03217045,10280,False,Large Park Zone,M,632
+487,East River Waterfront Esplanade,5.55218208,10038,False,Large Park Zone,M,633
+490,Starlight Park,7.3433136,10472,False,Large Park Zone,X,634
+512,Forest Park,18.96047005,11415,False,Flagship Park Zone,Q,635
+516,Prospect Park,9.76801583,11238,False,Flagship Park Zone,B,636
+533,Van Cortlandt Park,97.09379891,10705,False,Flagship Park Zone,X,637
+541,S.I. Greenbelt,52.3520887,10304,False,Large Park Zone,R,638
+542,FDR Boardwalk & Beach,47.08549794,10306,False,Beach Zone,R,639
+554,Highbridge Park,8.68667365,10033,False,Large Park Zone,M,640
